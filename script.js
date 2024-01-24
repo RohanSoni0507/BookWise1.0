@@ -316,17 +316,17 @@ const semesters = [
     {
         name: "2nd Semester",
         image: "images/2semester.jpg",
-        websiteLink: "https://rohansoni0507.github.io/BookWise2.0/",
+        websiteLink: "https://bookwise2web.vercel.app/",
     },
     {
         name: "3rd Semester",
         image: "images/3semester.jpg",
-        websiteLink: "https://rohansoni0507.github.io/BookWise3.0/",
+        websiteLink: "https://bookwise3web.vercel.app/",
     },
     {
         name: "4th Semester",
         image: "images/4semester.jpg",
-        websiteLink: "https://rohansoni0507.github.io/BookWise4.0/",
+        websiteLink: "https://bookwise4web.vercel.app/",
     },
     {
         name: "5th Semester",
